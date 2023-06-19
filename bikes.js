@@ -1,0 +1,1 @@
+document.getElementById("shop").onclick = "parent.location = 'shop.html'" 
